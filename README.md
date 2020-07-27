@@ -1,3 +1,3 @@
 # blockopoly
 
-Truffle init
+Smart contract AssetManager
