@@ -1,3 +1,3 @@
 # blockopoly
 
-Smart contract Bank
+Smart contract AssetManager
