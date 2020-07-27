@@ -1,7 +1,5 @@
-var Bank = artifacts.require("Bank");
-var AssetManager = artifacts.require("AssetManager");
+var Blockopoly = artifacts.require("Blockopoly");
 
 module.exports = function(deployer) {
-  deployer.deploy(Bank);
-  deployer.deploy(AssetManager);
+  deployer.deploy(Blockopoly);
 };
